@@ -1,6 +1,6 @@
-# Diet Planner App
+# Diet-Predictor App
 
-**Diet Planner App** is a Python-based application that uses machine learning to predict personalized diet plans for users. The app features an interactive GUI built with Tkinter, making it user-friendly and accessible for a wide audience.
+**Diet-Predictor App** is a Python-based application that uses machine learning to predict personalized diet plans for users. The app features an interactive GUI built with Tkinter, making it user-friendly and accessible for a wide audience.
 
 ---
 
